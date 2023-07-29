@@ -1,6 +1,6 @@
 Notes about the Project:
 
-Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers, implemented it along with SCD 2 & ABC Framework on top of that, mainly for newcomers for their understanding.
+Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers & implemented it along with SCD 2 & ABC Framework on top of that, mainly for newcomers for their understanding.
 
 Used many new topics I learned. It is a  general model, that can be changed to any other data flow model.
 
