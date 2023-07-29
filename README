@@ -1,9 +1,9 @@
 Notes about the Project:
 
-Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers, implemented ABC Framework on top of that & SCD 2, mainly for newcomers for their understanding.
+Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers, implemented it along with SCD 2 & ABC Framework on top of that, mainly for newcomers for their understanding.
 
 Used many new topics I learned. It is a  general model, that can be changed to any other data flow model.
 
-Used MySQL & Python. For GUI: CustomTkinter & Tkinter. It is tutorial-based, interactive, & contains required info in the form of textboxes & on the button clicks data gets filled into the files & tables respectively in real-time, i.e., it is operational. 
+Used MySQL & Python. For GUI: CustomTkinter & Tkinter. It is tutorial–based, interactive, & contains required info in the form of textboxes & on the button clicks data gets filled into the files & tables respectively in real–time, i.e., it is operational. 
 
-While writing the project report, I invented a new efficient method for Independent Path Testing (Not available anywhere on the Internet).    
+While writing the project report, I invented a new efficient method for Independent Path Testing (Not available anywhere on the Internet).
