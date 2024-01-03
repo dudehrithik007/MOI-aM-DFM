@@ -1,9 +1,10 @@
-Notes about the Project:
+# Major Project made for my MCA End-Semester & also for my Internship at automotiveMastermind (S&P Global Mobility) [IHS Markit].
 
-Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers & implemented it along with SCD 2 & ABC Framework on top of that, mainly for newcomers for their understanding.
+## About:
 
-Used many new topics I learned. It is a  general model, that can be changed to any other data flow model.
-
-Used MySQL & Python. For GUI: CustomTkinter & Tkinter. It is tutorial–based, interactive, & contains required info in the form of textboxes & on the button clicks data gets filled into the files & tables respectively in real–time, i.e., it is operational. 
-
-While writing the project report, I invented a new efficient method for Independent Path Testing (Not available anywhere on the Internet).
+1. Received an Award for it – mentioned in the “Awards & Achievements” section on my LinkedIn.
+2. Made a working model of the working of the whole company in terms of the data flow & transformations that take place in various layers & implemented it along with SCD 2 & ABC Framework on top of that, mainly for newcomers for their understanding.
+3. Used many new topics (20) I learnt. It is a general model, that can be changed to any other data flow model.
+4. Tech Stack: MySQL & Python. For GUI: CustomTkinter & Tkinter. It is tutorial–based, interactive, & contains required info in the form of textboxes & on the button clicks data gets filled into the files & tables respectively in real–time, i.e., it is operational. Made Confluence and README.md docs also.
+5. Used Advanced Installer for making the Windows Installer. 
+6. While writing the Software Engineering project report, I invented a new efficient method for Independent Path Testing (Not available anywhere on the Internet).
